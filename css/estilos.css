@@ -2,3 +2,19 @@
 	margin: 0px;
 	padding: 0px;
 }
+body{
+	background: #722;
+}
+#cabez{
+	background: gold;
+	font-family: fantasy;
+	font-size: 50px;
+	text-align: center;
+}
+#img1{
+	padding-top: 20px;
+	display: block;
+	margin: auto;
+	width: 500px;
+	height: 250px;
+}
